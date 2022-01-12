@@ -1,3 +1,5 @@
+I add the [StyleGAN2-ada](https://github.com/NVlabs/stylegan2-ada)'s projector.pyt to the stylegan3 repo.
+
 ## Alias-Free Generative Adversarial Networks (StyleGAN3)<br><sub>Official PyTorch implementation of the NeurIPS 2021 paper</sub>
 
 ![Teaser image](./docs/stylegan3-teaser-1920x1006.png)
